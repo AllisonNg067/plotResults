@@ -1,0 +1,12 @@
+Creating random sparse mixer with 52429 edges...
+Creating random sparse mixer with 52429 edges...
+...done
+...done
+Starting depth = 1:
+1 of 3...
+slurmstepd: error: *** STEP 7450669.0 ON nid00043 CANCELLED AT 2022-01-19T20:19:14 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 7450669 ON nid00043 CANCELLED AT 2022-01-19T20:19:14 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+srun: forcing job termination
+srun: forcing job termination
